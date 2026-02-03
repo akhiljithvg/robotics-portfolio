@@ -37,9 +37,9 @@ const Skills = () => {
             skills: [
                 { name: "ROS2", icon: <SiRos size={24} />, color: "text-white" },
                 { name: "Gazebo", icon: <Box size={24} />, color: "text-orange-400" },
-                { name: "Controls", icon: <Settings2 size={24} />, color: "text-gray-300" },
-                { name: "Planning", icon: <Waypoints size={24} />, color: "text-green-300" },
-                { name: "Sensors", icon: <Radio size={24} />, color: "text-blue-300" },
+                { name: "Control System", icon: <Settings2 size={24} />, color: "text-gray-300" },
+                { name: "Path Planning", icon: <Waypoints size={24} />, color: "text-green-300" },
+                { name: "Sensor Integration", icon: <Radio size={24} />, color: "text-blue-300" },
                 { name: "Perception", icon: <Eye size={24} />, color: "text-purple-300" }
             ]
         }
