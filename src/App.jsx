@@ -9,7 +9,7 @@ function App() {
     return (
         <div className="bg-background min-h-screen text-text selection:bg-primary selection:text-white">
             <Header />
-            <main className="container mx-auto px-4 sm:px-6 lg:px-8">
+            <main>
                 <Hero />
                 <Skills />
                 <Experience />
