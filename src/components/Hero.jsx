@@ -94,7 +94,7 @@ const Hero = () => {
                         <img
                             src={profilePic}
                             alt="Akhiljith Gigi"
-                            className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500"
+                            className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-500 brightness-85"
                         />
                     </div>
                 </div>
